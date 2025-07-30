@@ -5,18 +5,17 @@ Ce dépôt contient les instructions de construction de mon portfolio personnel.
 
 ## Arborescence du projet
 
+Le dépôt contient actuellement les fichiers et dossiers suivants :
+
+```
 .
 ├── docs/
-│ ├── images/
-│ ├── Home.md
-│ ├── Experience.md
-│ ├── Project.md
-│ ├── About.md
-│ ├── Contact.md
-│ ├── Tools.md
-│ └── CV-M2R.pdf
-├── public/
+│   ├── images/
+│   └── CV-M2R.pdf
 └── README.md
+```
+
+Les pages `Home.md`, `Experience.md`, `Project.md`, `About.md`, `Contact.md` et `Tools.md` devront être ajoutées ultérieurement pour compléter le site.
 
 ---
 
